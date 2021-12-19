@@ -9,10 +9,12 @@
 </div>
 
 ## Get Started
-Install:
-- ```bash
+### Install
+-
+  ```bash
   nimble install prettylib
   ```
-- ```bash
+-
+  ```bash
   nimble install github.com/prettybauble/prettytmpl
   ```
