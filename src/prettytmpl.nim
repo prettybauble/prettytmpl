@@ -1,4 +1,5 @@
-# author: Ethosa
+import
+  prettytmpl/tmpl
 
-proc prettyhello* =
-  echo "hello, prettybauble 👀"
+export
+  tmpl
