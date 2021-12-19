@@ -10,9 +10,9 @@
 
 ## Get Started
 Install:
-```bash
-nimble install prettylib
-```
-```bash
-nimble install github.com/prettybauble/prettytmpl
-```
+- ```bash
+  nimble install prettylib
+  ```
+- ```bash
+  nimble install github.com/prettybauble/prettytmpl
+  ```
