@@ -18,3 +18,13 @@
   ```bash
   nimble install github.com/prettybauble/prettytmpl
   ```
+
+<div align="center">
+
+|[Docs][]|[Tests][]|
+|--------|---------|
+
+</div>
+
+[Docs]:https://prettybauble.github.io/prettytmpl/theindex.html
+[Tests]:https://github.com/prettybauble/prettytmpl/tree/main/tests
